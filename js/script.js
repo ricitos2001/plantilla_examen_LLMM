@@ -1,6 +1,7 @@
 // EJERCICIO 1
 // Cambiar el color de fondo al hacer clic en el botón "btnBlack" o el botón "btnWhite".
 
+
 // EJERCICIO 2
 // Agregar elementos a la lista de tareas usando inputTarea y btnAgregar.
 
